@@ -133,7 +133,7 @@ A: 系统需要验证每个URL的真实性，包括DNS查询和网站访问，�
 
 ### 作者
 
-Created by: 兜兜
+Created by: dian ZHANG
 
 ### 许可证
 
@@ -270,7 +270,7 @@ A: The system needs to verify the authenticity of each URL, including DNS querie
 
 ### Author
 
-Created by: 兜兜
+Created by: dian ZHANG
 
 ### License
 
